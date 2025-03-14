@@ -1,4 +1,7 @@
 # SalesSight: AI-Powered Sales Forecasting and Insights
+
+![Dashboard Image](https://github.com/Vickey-VJ/SalesSight-AI-Powered-Sales-Forecasting-Insights/blob/main/dashboards/image.png)
+
 ## Sales Prediction & Visualization using Decision Tree, Random Forest & Power BI
 📊 SalesSight is a machine learning-based sales forecasting and visualization solution that leverages Decision Tree Classifier and Random Forest Regressor to analyze historical sales data, predict future trends, and provide actionable insights through Power BI dashboards.
 
